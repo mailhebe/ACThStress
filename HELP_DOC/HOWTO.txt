@@ -1,0 +1,21 @@
+1- install python from https://www.python.org/downloads/
+
+2- dowload acts calc from gitlab > branch gui2007
+   https://gitlab.com/mailhebe/ACThStress/-/archive/gui2007/ACThStress-gui2007.zip
+
+3- Uncrompress
+
+4- Enter the created folder
+
+5- Launch a cmd (terminal)
+
+6- if you want a virtual environment 
+   > virtualenv venv
+   > source venv/bin/activate
+
+7- if not, directly. if virtualenv, after activating
+   > pip install -r requirements.txt
+   > python SCRIPT/gui.py
+
+8- if you launched a virtual environment, to get out
+   > deactivate

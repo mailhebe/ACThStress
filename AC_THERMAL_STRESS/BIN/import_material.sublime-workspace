@@ -1,0 +1,542 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"coef",
+				"coeff_sigm"
+			],
+			[
+				"make_",
+				"make_GpowerLaw"
+			],
+			[
+				"ts",
+				"tsim"
+			],
+			[
+				"em",
+				"emp_details"
+			],
+			[
+				"to",
+				"to_numpy"
+			],
+			[
+				"temp",
+				"temp_profile"
+			],
+			[
+				"vecT",
+				"vecTime"
+			],
+			[
+				"E",
+				"Experimental"
+			],
+			[
+				"sh",
+				"shift_factor"
+			],
+			[
+				"def",
+				"default_value"
+			],
+			[
+				"coeff",
+				"coeff_prony"
+			],
+			[
+				"index",
+				"index_list"
+			],
+			[
+				"idex",
+				"index_list"
+			],
+			[
+				"clear",
+				"clear_plot"
+			],
+			[
+				"fit",
+				"fit_ccmc"
+			],
+			[
+				"typ",
+				"typeI"
+			],
+			[
+				"con",
+				"configure_item"
+			],
+			[
+				"make",
+				"make_pronyJ"
+			],
+			[
+				"shif",
+				"shift_plot"
+			],
+			[
+				"shi",
+				"shifting_coeff"
+			],
+			[
+				"optim",
+				"optim-wlf"
+			],
+			[
+				"tref",
+				"tref_1"
+			],
+			[
+				"get",
+				"get_value"
+			],
+			[
+				"temperature",
+				"temperature_data"
+			],
+			[
+				"mat",
+				"mat_table"
+			],
+			[
+				"ma",
+				"mat_choice"
+			],
+			[
+				"time",
+				"time_sel"
+			],
+			[
+				"hide",
+				"hide_item"
+			],
+			[
+				"bmi",
+				"bmix_val"
+			],
+			[
+				"De",
+				"Deformation"
+			],
+			[
+				"cal",
+				"CalculatedStressFD"
+			],
+			[
+				"Deltat",
+				"Delta_Etot"
+			],
+			[
+				"param",
+				"paramE"
+			],
+			[
+				"Delta",
+				"Delta_RedTime"
+			],
+			[
+				"stress",
+				"stresscalc"
+			],
+			[
+				"vec",
+				"vecDepth"
+			],
+			[
+				"tse",
+				"tsecArrh"
+			],
+			[
+				"Ep",
+				"EpronyBranch"
+			],
+			[
+				"vecTim",
+				"vecTimeInterp"
+			],
+			[
+				"lo",
+				"logat_sel"
+			],
+			[
+				"vecTi",
+				"vecTimeInterp"
+			],
+			[
+				"ty",
+				"type_input"
+			],
+			[
+				"red",
+				"reduced_t_order"
+			],
+			[
+				"pro",
+				"pronyJ_plot"
+			],
+			[
+				"materi",
+				"material_data"
+			],
+			[
+				"optim_p",
+				"optim_pronyJ"
+			],
+			[
+				"log",
+				"logat_stderr"
+			],
+			[
+				"temp_",
+				"temp_minus_tref"
+			],
+			[
+				"tempera",
+				"temperature_data"
+			],
+			[
+				"optim_",
+				"optim_logat"
+			],
+			[
+				"op",
+				"optim_plot"
+			],
+			[
+				"is",
+				"isinstance"
+			],
+			[
+				"mate",
+				"material_data"
+			],
+			[
+				"data",
+				"datain"
+			],
+			[
+				"dept",
+				"depth_discr"
+			],
+			[
+				"z",
+				"zdiscr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"comp",
+				"Compare with..."
+			],
+			[
+				"compar",
+				"Compare with..."
+			],
+			[
+				"compa",
+				"Compare with..."
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 410.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ben/.config/redshift.conf",
+		"/home/ben/.cache/.fr-U4YLdU/ACThStress-main/SCRIPT/gui.py",
+		"/home/ben/.cache/.fr-SwprjD/ACThStress-main/SCRIPT/gui.py",
+		"/tmp/19-07-2021-engagement-sur-l-honneur-rouge-txt.txt",
+		"/home/ben/Desktop/ACThStress/requirements.txt",
+		"/home/ben/Desktop/ACThStress_PhysicalTempMod/requirements.txt",
+		"/home/ben/Desktop/ACThStress/build/gui/warn-gui.txt",
+		"/usr/lib64/calibre/calibre/devices/smart_device_app/driver.py",
+		"/home/ben/Dropbox/04Codes/FreeFem/sst_NR-FP_MagDyn.edp",
+		"/home/ben/Dropbox/04Codes/FreeFem/sst_NR-FP_MagStat.edp",
+		"/home/ben/Dropbox/04Codes/FreeFem/00LINEAR/00sst_time.edp",
+		"/home/ben/.cache/.fr-lRuAlk/last-dream/readme.txt",
+		"/etc/profile.d/libreoffice-still.sh",
+		"/etc/profile.d/libreoffice-still.csh",
+		"/home/ben/Desktop/ACThStress/SCRIPT/gui.py",
+		"/home/ben/.profile",
+		"/home/ben/requirements.txt",
+		"/home/ben/Desktop/Hitrava-3.6.1/Run_Hitrava.cmd",
+		"/home/ben/Desktop/mouse.sh",
+		"/home/ben/Desktop/MT22/references.txt",
+		"/home/ben/Desktop/SY01/references.txt",
+		"/home/ben/Desktop/ACThStress/.gitignore",
+		"/home/ben/Desktop/ACThStress/AC_THERMAL_STRESS/BIN/optim_prony.py",
+		"/home/ben/Desktop/ACThStress/AC_THERMAL_STRESS/BIN/interconvertion.py",
+		"/home/ben/Desktop/ACThStress/AC_THERMAL_STRESS/BIN/python_stress.py",
+		"/home/ben/Desktop/ACThStress/AC_THERMAL_STRESS/BIN/stress_calculation.py",
+		"/home/ben/Desktop/ACThStress/AC_THERMAL_STRESS/BIN/tref_shift.py",
+		"/home/ben/Desktop/ACThStress/AC_THERMAL_STRESS/BIN/optim_rawmat.py",
+		"/home/ben/Desktop/0everett_compumag19.edp",
+		"/home/ben/Dropbox/04Codes/1preisach/0everett_compumag19.edp",
+		"/home/ben/Desktop/0preisachIN/BHcoil_E230_0RD_0N_1hz.txt",
+		"/home/ben/Desktop/BHip_E230_0RD_0N_1hz.txt",
+		"/home/ben/Desktop/0preisachIN/BHip_E230_0RD_0N_1hz.csv",
+		"/home/ben/Desktop/ACThStress/AC_THERMAL_STRESS/BIN/import_material.py",
+		"/home/ben/Desktop/ACThStress/RESULTS/polymial_optim_material.txt",
+		"/home/ben/.config/joplin-desktop/edit-62e694ff8ad749558a7faae58a71683e.md",
+		"/home/ben/.config/joplin-desktop/edit-17d7c079fa2c471ea2774ff9853183fc.md",
+		"/home/ben/.config/joplin-desktop/edit-750da2fd304f4fdeac424a4776b42f07.md",
+		"/home/ben/.config/joplin-desktop/edit-23c6c740b287411c8443aa990815e337.md",
+		"/home/ben/.config/joplin-desktop/edit-d64d52a7bab64e8c8925914912f5060b.md",
+		"/home/ben/.config/joplin-desktop/edit-08d7967d24f54b53a888bccfb991cc0b.md",
+		"/home/ben/.config/joplin-desktop/edit-28bb94f8c1484a2dbe5b240375fb78db.md",
+		"/home/ben/.config/joplin-desktop/edit-47973321ce2748cbbe77bdfa0be29be6.md",
+		"/home/ben/.config/joplin-desktop/edit-423375be522a4f0fb0ae6d27ebd7540e.md",
+		"/home/ben/.config/joplin-desktop/edit-a6be2834ccfa470b847f6ea64a58ce74.md",
+		"/home/ben/.config/joplin-desktop/edit-12c5a439f3894d85b8fbd600f78e8086.md",
+		"/home/ben/.config/joplin-desktop/edit-06770ba2757f4a30a8697fe025f808ad.md",
+		"/home/ben/.config/joplin-desktop/edit-cb551acb1988443a9993631951558436.md",
+		"/home/ben/Dropbox/00Perso/0Ben/backups/recovery_codes.txt",
+		"/home/ben/Desktop/ACThStress_CMD/requirements.txt",
+		"/home/ben/Desktop/ACThStress_Jupyter/requirements.txt",
+		"/home/ben/Desktop/ACThStress_Jupyter/.gitignore",
+		"/home/ben/Desktop/ACThStress/AC_THERMAL_STRESS/BIN/optim_wlf.py",
+		"/home/ben/Desktop/ACThStress_CMD/SCRIPT/main.py",
+		"/home/ben/Desktop/ACThStress_CMD/AC_THERMAL_STRESS/BIN/tref_shift.py",
+		"/home/ben/Desktop/ACThStress_CMD/AC_THERMAL_STRESS/BIN/optim_rawmat.py",
+		"/home/ben/Desktop/New Folder/0v0.1_ACThStress/requirements.txt",
+		"/home/ben/Desktop/New Folder/0v0.1_ACThStress/SCRIPT/main.py",
+		"/home/ben/Desktop/New Folder/0v0.1_ACThStress/AC_THERMAL_STRESS/BIN/import_material.py",
+		"/home/ben/Desktop/ACThStress/AC_THERMAL_STRESS/INTER_DATA/info.md",
+		"/home/ben/Desktop/play-store-apps_06-05-2021/Google Play Store/convert.py",
+		"/usr/share/applications/sublime_text_3.desktop",
+		"/usr/share/applications/superproductivity.desktop",
+		"/home/ben/superproductivity-bin/pkg/superproductivity-bin/usr/share/applications/superproductivity.desktop",
+		"/home/ben/snap/sublime-text/current",
+		"/home/ben/Desktop/ACThStress/SCRIPT/dearpygui_demo.py",
+		"/home/ben/Desktop/New Folder/requirements.txt",
+		"/home/ben/Desktop/requirements.txt",
+		"/home/ben/Desktop/ACThStress/AC_THERMAL_STRESS/BIN/optim_arrh.py",
+		"/home/ben/Dropbox/04Codes/0project_asphaltE/0v0.2_GUI/requirements.txt",
+		"/home/ben/Desktop/LOCAL-ACThStress/requirements.txt",
+		"/home/ben/.config/joplin-desktop/edit-aaf20e97d851486a9477924aa3957d7d.md",
+		"/home/ben/Dropbox/04Codes/0project_asphaltE/0v0.2_GUI/SCRIPT/gui.py",
+		"/home/ben/Desktop/ACThStress/SCRIPT/test.py",
+		"/home/ben/Desktop/ACThStress/line_count.txt",
+		"/home/ben/Desktop/ACThStress/SCRIPT/main.py",
+		"/home/ben/Desktop/ACThStress/AC_THERMAL_STRESS/BIN/plot_stress.py",
+		"/home/ben/Desktop/ACThStress/AC_THERMAL_STRESS/BIN/temp_profile.py",
+		"/home/ben/Dropbox/04Codes/0project_asphaltE/0alpha_test/interconv_calculation.txt",
+		"/home/ben/Desktop/ACThStress/lines_count.txt",
+		"/home/ben/Desktop/ACThStress/AC_THERMAL_STRESS/BIN/plot_tempprofile.py",
+		"/home/ben/Desktop/ACThStress/RESULTS/wlf_arrh_param.txt",
+		"/home/ben/Desktop/ACThStress/RESULTS/Erelax_prony_param.txt",
+		"/home/ben/.config/joplin-desktop/edit-0f4d5fc95b874340beea15c6a35ce8d7.md",
+		"/home/ben/.config/chromium-flags.conf",
+		"/home/ben/Dropbox/01Diploma-PosDOC/01curriculum/contact_references_colombia.txt",
+		"/usr/share/applications/org.kde.kded5.desktop",
+		"/home/ben/.config/joplin-desktop/edit-ae6f2e053e3a475a8237410e67302779.md",
+		"/home/ben/Desktop/ACThStress/AC_THERMAL_STRESS/BIN/plot_material.py",
+		"/home/ben/Dropbox/04Codes/0project_asphaltE/0v0.1_ACThStress/AC_THERMAL_STRESS/BIN/numba_stress.py",
+		"/home/ben/Dropbox/04Codes/0project_asphaltE/0v0.1_ACThStress/AC_THERMAL_STRESS/BIN/python_stress.py",
+		"/home/ben/Dropbox/04Codes/0project_asphaltE/0v0.1_ACThStress/AC_THERMAL_STRESS/BIN/plot_tempprofile.py",
+		"/home/ben/Desktop/ACThStress/SCRIPT/main_gui.py",
+		"/home/ben/Desktop/ACThStress/SCRIPT/widget.py",
+		"/home/ben/Desktop/ACThStress/SCRIPT/gui6.py",
+		"/home/ben/Desktop/ACThStress/SCRIPT/gui5.py",
+		"/home/ben/Desktop/ACThStress/SCRIPT/gui4.py",
+		"/home/ben/Desktop/ACThStress/SCRIPT/gui3.py",
+		"/home/ben/Desktop/ACThStress/SCRIPT/gui2.py",
+		"/home/ben/.config/joplin-desktop/edit-69ff938c62b74ab6b1d7e1a7cb4de7bf.md",
+		"/home/ben/.config/joplin-desktop/edit-48098f01b9184eee94a4f73a84538123.md",
+		"/home/ben/.config/joplin-desktop/edit-98e8dc06f84f40ffaf0144c23c6d9d59.md",
+		"/home/ben/.config/joplin-desktop/edit-7b02d51d719344a89207e1fe727b306a.md",
+		"/home/ben/Desktop/ACThStress/AC_THERMAL_STRESS/BIN/linear_interp.py",
+		"/home/ben/Desktop/ACThStress/AC_THERMAL_STRESS/BIN/optim_prony_Efreq.py",
+		"/home/ben/Desktop/TEST_INTERCONV.txt",
+		"/home/ben/.thunderbird/w0ul9z12.default-release/ImapMail/imap.gmail-2.com/[Gmail].sbd/Borradores.msf",
+		"/home/ben/Dropbox/UNAL-CEM/python_jupyter/1d_fdtd/requirements.txt",
+		"/home/ben/Desktop/2d_fem/requirements.txt",
+		"/home/ben/Desktop/python_jupyter/2d_fem/requirements.txt",
+		"/home/ben/Desktop/python_jupyter/2d_fem/clase-04-1_2Delem-work.ipynb",
+		"/home/ben/Nextcloud/Readme.md",
+		"/home/ben/Nextcloud/.sync/readme.txt",
+		"/home/ben/1mount_gdrive.sh",
+		"/home/ben/2unmount_gdrive.sh",
+		"/home/ben/Dropbox/04Codes/0project_asphaltE/0ACThStress/AC_OLD/stress_calc_V1/python_stress_V1.py",
+		"/home/ben/Desktop/ACThStress/AC_THERMAL_STRESS/BIN/plot_material_Efreq.py",
+		"/home/ben/Desktop/ACThStress/AC_THERMAL_STRESS/BIN/input.py",
+		"/home/ben/Desktop/ACThStress/SCRIPT/main_V1.py",
+		"/home/ben/Desktop/ACThStress/AC_THERMAL_STRESS/BIN/python_stress-vectorized.py",
+		"/home/ben/Desktop/gprMax/README.rst",
+		"/home/ben/.local/share/applications/sublime-text2.desktop",
+		"/home/ben/tor-browser_en-US/start-tor-browser.desktop",
+		"/home/ben/onelab-Linux64/gmsh-getdp.desktop",
+		"/home/ben/onelab-Linux64/start-tor-browser.desktop",
+		"/home/ben/onelab-Linux64/README.txt",
+		"/home/ben/Desktop/onelab-Linux64/README.txt",
+		"/home/ben/Desktop/tor-browser/start-tor-browser.desktop"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 207.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "import_material.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 244.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
